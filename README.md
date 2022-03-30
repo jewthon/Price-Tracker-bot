@@ -1,5 +1,6 @@
 # Price-Tracker-bot
 I have made a price tracker bot using beatifulSoup (a python library for web scrapping) 
+
 How This Bot will work? 
 
 Well the bot will first ask the site name that the product belong to. 
